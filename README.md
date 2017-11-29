@@ -5,7 +5,7 @@ This is a [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) 
 #### Build
 
 ```bash
-cd docker-shadowsocks-obfs-client
+cd docker-shadowsocks-client
 sh build.sh
 ```
 
